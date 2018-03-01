@@ -1,5 +1,7 @@
 # blog
 
+Deep learning algorithms written from scratch
+
 logreg.ipynb - Logistic Regression written with numpy
 
 neuralNet.ipynb - Two layered network classifying planar data using numpy
