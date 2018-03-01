@@ -1,6 +1,5 @@
 import numpy as np
 
-## Add a comment in test case to demonstrate something make changes again. and make additional changes. more changes. more changes please
 def linear_forward_test_case():
     np.random.seed(1)
     """
