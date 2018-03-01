@@ -1,6 +1,6 @@
 # blog
 
-Deep Learning Algorithms Written From Scratch
+Deep Learning Algorithms Written From scratch
 
 logreg.ipynb - Logistic Regression written with numpy
 
